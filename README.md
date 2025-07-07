@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="[your-raw-image-url.jpg](https://github.com/papaL3xa/papaL3xa/blob/brain/mk.jpg?raw=true)" width="300" height="200" style="object-fit: cover;">
+  <img src="https://github.com/papaL3xa/papaL3xa/blob/brain/mk.jpg" width="300" height="200" style="object-fit: cover;">
   <img loading="lazy" src="https://github.com/papaL3xa/papaL3xa/blob/brain/mk.jpg?raw=true"
 </div>
