@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img loading="lazy" src=""
+  <img loading="lazy" src="https://github.com/papaL3xa/papaL3xa/blob/brain/mk.jpg?raw=true"
 </div>
