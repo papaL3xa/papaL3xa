@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github.com/papaL3xa/papaL3xa/blob/brain/mk.jpg" width="300" height="200" style="object-fit: cover;">
-  <img loading="lazy" src="https://github.com/papaL3xa/papaL3xa/blob/brain/mk.jpg?raw=true"
+  <img src="https://github.com/papaL3xa/papaL3xa/blob/brain/mk.jpg" width="900" height="700" style="object-fit: cover;">
 </div>
