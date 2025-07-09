@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="" width="900" height="450" style="object-fit: cover;">
+  <img src="https://github.com/papaL3xa/builds/blob/item/PapaL3xa.png?raw=true" width="900" height="450" style="object-fit: cover;">
 </div>
