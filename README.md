@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/papaL3xa/papaL3xa/refs/heads/brain/2_20250719_030008_0001.png" style="object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/papaL3xa/papaL3xa/refs/heads/brain/2_20250719_030008_0001.png?token=GHSAT0AAAAAADGQXR7XXVQCNIFZUODCZJSQ2D2WA2Q" style="object-fit: cover;">
 </div>
 
 ## Hi there 👋
