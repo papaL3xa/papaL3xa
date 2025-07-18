@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
 **papaL3xa/papaL3xa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working
+- 🌱 I’m currently learning about github
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div align="center">
-  <img src="https://github.com/papaL3xa/builds/blob/item/PapaL3xa.png?raw=true" width="900" height="450" style="object-fit: cover;">
+  <img src="(https://raw.githubusercontent.com/papaL3xa/papaL3xa/refs/heads/brain/2_20250719_030008_0001.png)" style="object-fit: cover;">
 </div>
