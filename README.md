@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/papaL3xa/papaL3xa/refs/heads/brain/2_20250719_030008_0001.png" style="object-fit: cover;">
+</div>
+
 ## Hi there 👋
 
 **papaL3xa/papaL3xa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align="center">
-  <img src="(https://raw.githubusercontent.com/papaL3xa/papaL3xa/refs/heads/brain/2_20250719_030008_0001.png)" style="object-fit: cover;">
-</div>
