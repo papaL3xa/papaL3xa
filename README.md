@@ -1,3 +1,12 @@
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=papaL3xa&show_icons=true&hide_border=true" /><br>
+<p align="center">
+  <code>PapaL3xa</code><br/>
+  ✨✨ Thank You for your support ✨✨<br/>
+  i am just users😋<br/>
+  <br/>
+  Try to make Kernels👍
+</p>
+
 <h1 align="center">👋 Hi there!</h1>
 
 <h2 align = "center">PapaL3xa GitHub Stats</h2>
